@@ -1,0 +1,102 @@
+#pragma once
+
+//   SDK By:if
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x8)
+#endif
+
+#include "../pch.h"
+
+namespace sdk
+{
+//---------------------------------------------------------------------------
+// Parameters
+//---------------------------------------------------------------------------
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_C0E87BED3A8C440D54C1F0487381B037
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_C0E87BED3A8C440D54C1F0487381B037_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_02D5906F5425ECAF722F7DA1584049D9
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_02D5906F5425ECAF722F7DA1584049D9_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_F19F329464824ECFC19C1C85BBBA1878
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_F19F329464824ECFC19C1C85BBBA1878_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_821886401B02B36F1D78B27C283FFA49
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_821886401B02B36F1D78B27C283FFA49_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_18B59905CC6FAC8B56897726853844BB
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_18B59905CC6FAC8B56897726853844BB_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_DF7CC22DE6FE46E5F65D04F537E7042F
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_DF7CC22DE6FE46E5F65D04F537E7042F_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_7029191DC382CD1DEADCCBBCD33EDE2E
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_7029191DC382CD1DEADCCBBCD33EDE2E_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_26AE8674113BF0F399A68E15984CFCED
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_26AE8674113BF0F399A68E15984CFCED_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_96B795C34CF8ECE4812C3463ABFBCDDF
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_96B795C34CF8ECE4812C3463ABFBCDDF_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_2CBD9EB82C7B7C2A22E7305E5262474D
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_2CBD9EB82C7B7C2A22E7305E5262474D_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_A20978DA60E5652D4C2282FE857519F5
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_GraphPropertyNode_358C3E8D494DE0FE1DED638DC6BB99E6_A20978DA60E5652D4C2282FE857519F5_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_StateEntryNode_358C3E8D494DE0FE1DED638DC6BB99E6_Get_Buckets_272AEAD54EDDA3107D21D89BA39BB624
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_StateEntryNode_358C3E8D494DE0FE1DED638DC6BB99E6_Get_Buckets_272AEAD54EDDA3107D21D89BA39BB624_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_StateEntryNode_358C3E8D494DE0FE1DED638DC6BB99E6_Get_Scotty_and_June_031DDEAE443AB2ADFBC0879FDEE386F7
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_StateEntryNode_358C3E8D494DE0FE1DED638DC6BB99E6_Get_Scotty_and_June_031DDEAE443AB2ADFBC0879FDEE386F7_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_StateEntryNode_358C3E8D494DE0FE1DED638DC6BB99E6_PlayDialogue_54C2D65C49EAF60A684810AD4C083544
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_StateEntryNode_358C3E8D494DE0FE1DED638DC6BB99E6_PlayDialogue_54C2D65C49EAF60A684810AD4C083544_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.SMGraphK2Node_StateEntryNode_358C3E8D494DE0FE1DED638DC6BB99E6_Wait_374EB8DB44D46AA449A7F68DB851A767
+struct UDSM_CashGrabAnnounce_C_SMGraphK2Node_StateEntryNode_358C3E8D494DE0FE1DED638DC6BB99E6_Wait_374EB8DB44D46AA449A7F68DB851A767_Params
+{
+};
+
+// Function DSM_CashGrabAnnounce.DSM_CashGrabAnnounce_C.ExecuteUbergraph_DSM_CashGrabAnnounce
+struct UDSM_CashGrabAnnounce_C_ExecuteUbergraph_DSM_CashGrabAnnounce_Params
+{
+	int                                                EntryPoint;                                               // (BlueprintVisible, BlueprintReadOnly, Parm, ZeroConstructor, IsPlainOldData)
+};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif

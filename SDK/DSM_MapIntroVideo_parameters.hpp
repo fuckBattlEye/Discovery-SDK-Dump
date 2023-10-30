@@ -1,0 +1,102 @@
+#pragma once
+
+//   SDK By:if
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x8)
+#endif
+
+#include "../pch.h"
+
+namespace sdk
+{
+//---------------------------------------------------------------------------
+// Parameters
+//---------------------------------------------------------------------------
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_DF7CC22DE6FE46E5F65D04F537E7042F
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_DF7CC22DE6FE46E5F65D04F537E7042F_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_7029191DC382CD1DEADCCBBCD33EDE2E
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_7029191DC382CD1DEADCCBBCD33EDE2E_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_26AE8674113BF0F399A68E15984CFCED
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_26AE8674113BF0F399A68E15984CFCED_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_96B795C34CF8ECE4812C3463ABFBCDDF
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_96B795C34CF8ECE4812C3463ABFBCDDF_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_DF7CC22DE6FE46E5F65D04F537E7042F_1
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_DF7CC22DE6FE46E5F65D04F537E7042F_1_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_7029191DC382CD1DEADCCBBCD33EDE2E_1
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_7029191DC382CD1DEADCCBBCD33EDE2E_1_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_26AE8674113BF0F399A68E15984CFCED_1
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_26AE8674113BF0F399A68E15984CFCED_1_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_96B795C34CF8ECE4812C3463ABFBCDDF_1
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_96B795C34CF8ECE4812C3463ABFBCDDF_1_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_2CBD9EB82C7B7C2A22E7305E5262474D
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_2CBD9EB82C7B7C2A22E7305E5262474D_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_A20978DA60E5652D4C2282FE857519F5
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_GraphPropertyNode_B7B744FB401903E942FF27BCDD796F84_A20978DA60E5652D4C2282FE857519F5_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_StateEntryNode_B7B744FB401903E942FF27BCDD796F84_What_Map_987ABF3F4A59000A56FBE3942DDC1271
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_StateEntryNode_B7B744FB401903E942FF27BCDD796F84_What_Map_987ABF3F4A59000A56FBE3942DDC1271_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_StateEntryNode_B7B744FB401903E942FF27BCDD796F84_Commentator___Tournament_Intro_Video_E0DC33414A82BD1B35CE1DAB7003EEDC
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_StateEntryNode_B7B744FB401903E942FF27BCDD796F84_Commentator___Tournament_Intro_Video_E0DC33414A82BD1B35CE1DAB7003EEDC_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_StateEntryNode_B7B744FB401903E942FF27BCDD796F84_Is_Final_Round_444768C34DE3AA9F72CD10BEB2D29479
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_StateEntryNode_B7B744FB401903E942FF27BCDD796F84_Is_Final_Round_444768C34DE3AA9F72CD10BEB2D29479_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_StateEntryNode_B7B744FB401903E942FF27BCDD796F84_Commentator___Final_Intro_Video_Map_Agnostic_C0D29CA04D4F2CF414FE81A41ECCD16E
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_StateEntryNode_B7B744FB401903E942FF27BCDD796F84_Commentator___Final_Intro_Video_Map_Agnostic_C0D29CA04D4F2CF414FE81A41ECCD16E_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.SMGraphK2Node_StateEntryNode_B7B744FB401903E942FF27BCDD796F84_Wait_952B25F240F5E1C332B29AAF0AE9CACF
+struct UDSM_MapIntroVideo_C_SMGraphK2Node_StateEntryNode_B7B744FB401903E942FF27BCDD796F84_Wait_952B25F240F5E1C332B29AAF0AE9CACF_Params
+{
+};
+
+// Function DSM_MapIntroVideo.DSM_MapIntroVideo_C.ExecuteUbergraph_DSM_MapIntroVideo
+struct UDSM_MapIntroVideo_C_ExecuteUbergraph_DSM_MapIntroVideo_Params
+{
+	int                                                EntryPoint;                                               // (BlueprintVisible, BlueprintReadOnly, Parm, ZeroConstructor, IsPlainOldData)
+};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif
